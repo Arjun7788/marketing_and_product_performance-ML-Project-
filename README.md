@@ -17,7 +17,7 @@ The study answers 7 research questions covering:
 ##  Project Structure
 
 * `notebooks/` → Jupyter/Kaggle notebooks for each research question
-* `results/tables/` → CSV tables (evaluation results)
+* `results/` → all screenshots of results  
 
 
 ---
@@ -51,6 +51,7 @@ Evaluation Metrics:
 
 Dataset used:
 Marketing and Product Performance Dataset (Kaggle)
+https://www.kaggle.com/datasets/imranalishahh/marketing-and-product-performance-dataset
 
 ---
 
